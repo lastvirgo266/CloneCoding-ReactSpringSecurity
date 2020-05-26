@@ -1,0 +1,3 @@
+jwt :
+  jwtSecret : JWTTest
+  jwtExpirationInMs : 60480000
